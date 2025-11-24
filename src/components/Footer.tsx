@@ -9,7 +9,7 @@ export const Footer = () => {
             <Mountain className="h-8 w-8" />
             <div>
               <p className="text-2xl font-bold">Musafir Retreats & Camps</p>
-              <p className="text-sm text-primary-foreground/80">Area 6 – Wellness & Retreat Zone</p>
+              <p className="text-sm text-primary-foreground/80">Area 7 – Service & Maintenance Zone</p>
             </div>
           </div>
 
