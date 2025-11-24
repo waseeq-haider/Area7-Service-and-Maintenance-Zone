@@ -1,86 +1,62 @@
-# Area 7: Service and Maintenance Zone Landing Page
+# 🔧 Area 7: Service & Maintenance Zone
 
-> Developed by **Waseeq Haider**
+<div align="center">
 
-## Project Overview
+![Musafir Retreats](https://img.shields.io/badge/Musafir-Retreats-green?style=for-the-badge)
+![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=for-the-badge&logo=vite)
 
-This is a modern, responsive landing page for **Area 7: Service and Maintenance Zone** at Musafir Retreats. The project showcases service facilities and maintenance infrastructure with an interactive, visually rich interface featuring image galleries, floor plans, location maps, and detailed facility information.
+**A modern, interactive landing page showcasing service and maintenance facilities at Musafir Retreats & Camps**
 
-## Tech Stack
-
-This project is built with:
-
-- **Vite** - Fast build tool and dev server
-- **TypeScript** - Type-safe JavaScript
-- **React** - UI component library
-- **shadcn-ui** - High-quality UI components
-- **Tailwind CSS** - Utility-first CSS framework
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js (v18 or higher recommended)
-- npm or yarn package manager
-
-Install Node.js using [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) for version management.
-
-### Installation
-
-```sh
-# Clone the repository
-git clone <YOUR_GIT_URL>
-
-# Navigate to the project directory
-cd Area7-Service-and-Maintenance-Zone
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
-The application will be available at `http://localhost:5173`
-
-## Development
-
-### Project Structure
-
-```
-src/
-├── components/     # React components
-├── pages/          # Page components
-├── assets/         # Images and static files
-└── styles/         # CSS and styling files
-```
-
-### Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
-
-## Deployment
-
-Build the project for production:
-
-```sh
-npm run build
-```
-
-The optimized files will be in the `dist/` directory, ready for deployment to any static hosting service.
-
-## Features
-
-- Interactive image galleries
-- 3D floor plan visualization
-- Location and site maps
-- Responsive design
-- Smooth animations and transitions
-- SEO optimized
+</div>
 
 ---
 
-**Developer**: Waseeq Haider
+## 📸 Screenshot
+
+<div align="center">
+
+![Area 7 - Service & Maintenance Zone](./screenshots/area7-preview.png)
+
+*Full page preview of Area 7 landing page*
+
+</div>
+
+---
+
+## ✨ Features
+
+- 🎨 **Modern UI/UX** - Clean, responsive design with smooth animations
+- 🖼️ **Interactive Galleries** - Beautiful image showcases
+- 🗺️ **3D Floor Plans** - Interactive 3D visualization
+- 📍 **Location Maps** - Integrated mapping
+- 🎯 **Site Map** - Interactive site map showing all 7 areas
+- 📱 **Fully Responsive** - Optimized for all devices
+- ⚡ **Lightning Fast** - Built with Vite
+
+---
+
+## 🚀 Getting Started
+
+```bash
+cd Area7-Service-and-Maintenance-Zone
+npm install --legacy-peer-deps
+npm run dev
+```
+
+Open `http://localhost:8080` 🎉
+
+---
+
+## 👨‍💻 Developer
+
+**Waseeq Haider**
+
+---
+
+<div align="center">
+
+Made with ❤️ for Musafir Retreats & Camps
+
+</div>
