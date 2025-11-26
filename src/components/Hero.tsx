@@ -20,17 +20,17 @@ export const Hero = () => {
 
       <div className="relative h-full flex items-center justify-center px-6">
         <div className="max-w-5xl mx-auto text-center animate-fade-up">
-          <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-primary-foreground mb-6 tracking-tight">
-            Area 7 – Service & Maintenance Zone
+          <h1 className="text-6xl md:text-8xl lg:text-9xl font-bold text-white mb-6 tracking-tight drop-shadow-lg font-['Playfair_Display']">
+            Area 7
           </h1>
-          <p className="text-xl md:text-2xl lg:text-3xl text-primary-foreground/90 mb-12 font-light">
-            Supports the retreat’s operational needs, including maintenance facilities, staff amenities, and logistics hubs.
+          <p className="text-2xl md:text-3xl lg:text-4xl text-white/90 mb-12 font-light tracking-wide drop-shadow-md">
+            Service & Maintenance Zone
           </p>
           <Button
             size="lg"
-            variant="secondary"
+            variant="ghost"
             onClick={scrollToContent}
-            className="group hover:shadow-lg transition-all"
+            className="group bg-white/10 backdrop-blur-md border border-white/20 text-white hover:bg-white/20 hover:text-white transition-all"
           >
             Explore More
             <ArrowDown className="ml-2 h-5 w-5 group-hover:translate-y-1 transition-transform" />

@@ -5,7 +5,7 @@ const items = [
     number: 31,
     title: "10 ECO-LODGE CABINS",
     description: "Eco-friendly cabins designed for families and groups, each with 4 beds. Features modern amenities including solar panels, AC, and Wi-Fi while maintaining sustainable practices and natural aesthetics.",
-    image: "/assets/10 ECO-LODGE CABINS.jfif" // Added image for consistency with new JSX
+    image: "/assets/Eco-friendly cabins with solar panels, AC, and Wi-Fi.jfif"
   },
   {
     title: "MAINTENANCE WORKSHOP & TOOL STORAGE",
